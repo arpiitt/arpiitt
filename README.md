@@ -1,24 +1,70 @@
+### Hi there, I'm Arpit 👋
 
-![MasterHead](https://media.licdn.com/dms/image/D5616AQHCDSmiXXvwhw/profile-displaybackgroundimage-shrink_350_1400/0/1700130109428?e=1708560000&v=beta&t=-lD3Wz5OnXea6t-Q-CqAIFQWzaPOzQ9IqdcDug2rBeg)
-<h1 align="center">Hi 👋, I'm Arpit Kesharwani</h1>
-<h3 align="center">Full-Stack Developer | Blockchain | IoT Enginner</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpiit&label=Profile%20views&color=0e75b6&style=flat" alt="arpiit" /> </p>
-
-<p align="left"> <a href="https://twitter.com/https_arpitt" target="blank"><img src="https://img.shields.io/twitter/follow/https_arpitt?logo=twitter&style=for-the-badge" alt="https_arpitt" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https_arpitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https_arpitt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arpit-kesharwani-001108221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-kesharwani-001108221" height="30" width="40" /></a>
-<a href="https://instagram.com/itz.arpiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.arpiit" height="30" width="40" /></a>
+<p>
+  <em>
+    I am a Pre-final Year undergraduate from <a href="https://lnct.ac.in/">
+    <b>Lakshmi Narain College of Technology</b>, Bhopal </a>.<br>  
+    <b>Software Developer</b> 👨🏼‍💻, <br><b>Blockchain Developer<b> 🕵🏼, <br><b>IoT Engineer<b> 🧑🏼‍🏫 <br>and a <b>Community Lead 🎨,  who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> 🚀and 
+    <b>excel.</b> 🏅
+  </em>  
 </p>
+ 
+ ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-224786+%20Lines%20of%20code-blue)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+* 🌍 I'm based in India
+* 💼 Former Java Intern @MPSEDC (Madhya Pradesh Govt.)
+* 🚀 Winner at National Agro Hackathon (NAH'23) & 3+ National Level Hackathons
+* 🤝 I'm open to collaborating on Projects
+* ✉️ You can contact me at [kesharwani1407@gmail.com](mailto:kesharwani1407@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpiit&show_icons=true&locale=en&layout=compact" alt="arpiit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpiit&show_icons=true&locale=en" alt="arpiit" /></p>
+
+
+#### 👨🏻‍💻 Mostly Used Languages, Frameworks :
+
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png">
+
+
+### Socials
+
+### Socials
+
+<p align="center">
+<!--     <a href="https://www.dev.to/arpitghura" target="_blank" rel="noreferrer"><img src="	https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>  -->
+<!--     <a href="https://discord.com/users/Arpit#5866" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>  -->
+<!--     <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  -->
+<!--     <a href="https://www.stackoverflow.com/users/17652503/arpit-ghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>  -->
+
+[![Dev.to Badge](https://img.shields.io/badge/-arpitghura-grey?style=for-the-badge&logo=dev.to&logoColor=white&link=https://www.dev.to/arpitghura/)](https://www.dev.to/arpitghura/)
+[![Linkedin Badge](https://img.shields.io/badge/-arpitghura-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitghura/)](https://www.linkedin.com/in/arpitghura)
+[![Instagram Badge](https://img.shields.io/badge/-ghuraarpit-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ghura.arpit/)](https://www.instagram.com/ghura.arpit/)
+[![Twitter Badge](https://img.shields.io/badge/-Arpitghura-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/arpitghura)](https://twitter.com/arpitghura)
+[![Hashnode Badge](https://img.shields.io/badge/-arpitghura-darkblue?style=for-the-badge&logo=hashnode&logoColor=white&link=https://arpitghura.hashnode.dev)](https://arpitghura.hashnode.dev)
+[![Gmail Badge](https://img.shields.io/badge/-ghurarpit110@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghurarpit110@gmail.com)](mailto:ghurarpit110@gmail.com)
+
+
+
+
+#### 👨🏻‍💻 Familiar With :
+
+
+<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arpiittl&theme=onedark&column=3&margin-w=15&margin-h=15">
+ 
+    
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpiitt&theme=tokyonight&count_private=true)
+
+![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpiitt&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+    
+![Arpit's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=arpiitt)
+    
+<details>
+<summary>Detailed Summary</summary>
+<br>
+    
+![Metrics](https://metrics.lecoq.io/sid-khuntwal?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+    
+</details>
