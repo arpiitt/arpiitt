@@ -51,19 +51,13 @@
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;&nbsp;<img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
-<img src="https://github-profile-trophy.vercel.app/?username=arpiittl&theme=onedark&column=3&margin-w=15&margin-h=15">
+
  
     
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpiitt&theme=tokyonight&count_private=true)
 
 ![Arpit's github stats](https://github-readme-stats.vercel.app/api?username=arpiitt&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
     
-![Arpit's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=arpiitt)
+
     
-<details>
-<summary>Detailed Summary</summary>
-<br>
-    
-![Metrics](https://metrics.lecoq.io/sid-khuntwal?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
-    
-</details>
+
