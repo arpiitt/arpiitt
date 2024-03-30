@@ -37,12 +37,11 @@
 <!--     <a href="https://www.github.com/arpitghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  -->
 <!--     <a href="https://www.stackoverflow.com/users/17652503/arpit-ghura" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>  -->
 
-[![Dev.to Badge](https://img.shields.io/badge/-arpitghura-grey?style=for-the-badge&logo=dev.to&logoColor=white&link=https://www.dev.to/arpitghura/)](https://www.dev.to/arpitghura/)
-[![Linkedin Badge](https://img.shields.io/badge/-arpitghura-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitghura/)](https://www.linkedin.com/in/arpitghura)
-[![Instagram Badge](https://img.shields.io/badge/-ghuraarpit-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ghura.arpit/)](https://www.instagram.com/ghura.arpit/)
-[![Twitter Badge](https://img.shields.io/badge/-Arpitghura-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/arpitghura)](https://twitter.com/arpitghura)
-[![Hashnode Badge](https://img.shields.io/badge/-arpitghura-darkblue?style=for-the-badge&logo=hashnode&logoColor=white&link=https://arpitghura.hashnode.dev)](https://arpitghura.hashnode.dev)
-[![Gmail Badge](https://img.shields.io/badge/-ghurarpit110@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ghurarpit110@gmail.com)](mailto:ghurarpit110@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-arpiitt-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpiitt/)](https://www.linkedin.com/in/arpiitt)
+[![Instagram Badge](https://img.shields.io/badge/-itz.arpiit-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/itz.arpiit/)](https://www.instagram.com/itz.arpiit/)
+[![Twitter Badge](https://img.shields.io/badge/-https_Arpitt-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/https_Arpitt)](https://twitter.com/https_Arpitt)
+[![Gmail Badge](https://img.shields.io/badge/-kesharwani1407@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kesharwani1407@gmail.com)](mailto:kesharwani1407@gmail.com)
 
 
 
