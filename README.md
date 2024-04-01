@@ -11,7 +11,7 @@
   </em>  
 </p>
  
- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-224786+%20Lines%20of%20code-blue)
+ ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-324786+%20Lines%20of%20code-blue)
 
 * 🌍 I'm based in India
 * 💼 Former Java Intern @MPSEDC (Madhya Pradesh Govt.)
