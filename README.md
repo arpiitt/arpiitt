@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I am a Pre-final Year undergraduate from <a href="https://lnct.ac.in/">
+    I am a Final Year undergraduate from <a href="https://lnct.ac.in/">
     <b>Lakshmi Narain College of Technology</b>, Bhopal </a>.<br>  
     <b>Software Developer</b> 👨🏼‍💻, <br><b>Blockchain Developer<b> 🕵🏼, <br><b>IoT Engineer<b> 🧑🏼‍🏫 <br>and a <b>Community Lead 🎨,  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
