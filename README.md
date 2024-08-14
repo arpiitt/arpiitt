@@ -14,11 +14,13 @@
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-324786+%20Lines%20of%20code-blue)
 
 * 🌍 I'm based in India
+* ⛓️ Blockchain Developer @ABYA University (Kenya, Africa)
 * 💼 Former Java Intern @MPSEDC (Madhya Pradesh Govt.)
+* ⭐ Chapter Director @ThePheonixGuild Bhopal
+* 👨‍💻 Advocate @CentralDAO
 * 🚀 Winner at National Agro Hackathon (NAH'23) & 3+ National Level Hackathons
 * 🤝 I'm open to collaborating on Projects
 * ✉️ You can contact me at [kesharwani1407@gmail.com](mailto:kesharwani1407@gmail.com)
-
 
 
 
@@ -53,7 +55,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-arpiitt-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpiitt/)](https://www.linkedin.com/in/arpiitt)
 [![Instagram Badge](https://img.shields.io/badge/-itz.arpiit-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/itz.arpiit/)](https://www.instagram.com/itz.arpiit/)
-[![Twitter Badge](https://img.shields.io/badge/-https_Arpitt-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/https_Arpitt)](https://twitter.com/https_Arpitt)
+[![Twitter Badge](https://img.shields.io/badge/-eth_arpiit-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/https_Arpitt)](https://twitter.com/eth_arpiit)
 [![Gmail Badge](https://img.shields.io/badge/-kesharwani1407@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kesharwani1407@gmail.com)](mailto:kesharwani1407@gmail.com)
 
 
