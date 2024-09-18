@@ -55,7 +55,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-arpiitt-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpiitt/)](https://www.linkedin.com/in/arpiitt)
 [![Instagram Badge](https://img.shields.io/badge/-itz.arpiit-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/itz.arpiit/)](https://www.instagram.com/itz.arpiit/)
-[![Twitter Badge](https://img.shields.io/badge/-eth_arpiit-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/https_Arpitt)](https://twitter.com/eth_arpiit)
+[![Twitter Badge](https://img.shields.io/badge/-0xarpiit-skyblue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/0xarpiit)](https://twitter.com/0xarpiit)
 [![Gmail Badge](https://img.shields.io/badge/-kesharwani1407@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kesharwani1407@gmail.com)](mailto:kesharwani1407@gmail.com)
 
 
