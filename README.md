@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    <b>Software Developer</b> 👨🏼‍💻, <br><b>Blockchain x Web3 Dev<b>🔗<br><b>IoT Engineer<b> 🧑🏼‍🏫 <br>and a <b>Community Lead 🎨,  who is <b>obsessed</b>
+    <b>Software Developer</b> 👨🏼‍💻, <br><b>Blockchain x Web3 Dev<b>🔗<br><b>Generative AI<b> 🧑🏼‍🏫 <br>and a <b>Community Lead 🎨,  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> 🚀and 
     <b>excel.</b> 🏅
