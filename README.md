@@ -12,10 +12,6 @@
  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-324786+%20Lines%20of%20code-blue)
 
 * 🌍 I'm based in India
-* ⛓️ Blockchain Developer @ABYA University (Kenya, Africa)
-* 💼 Former Java Intern @MPSEDC (Madhya Pradesh Govt.)
-* ⭐ Chapter Director @ThePheonixGuild Bhopal
-* 👨‍💻 Advocate @CentralDAO
 * 🚀 Winner at National Agro Hackathon (NAH'23) & 3+ National Level Hackathons
 * 🤝 I'm open to collaborating on Projects
 * ✉️ You can contact me at [kesharwani1407@gmail.com](mailto:kesharwani1407@gmail.com)
